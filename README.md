@@ -4,7 +4,8 @@ Repo created in order to show accent error in Ktlint plugin
 
 To see the problem do the following steps:
 ```bash
-open a shell 
+git clone https://github.com/NarcAle/ktlint_accent_error.git
+cd ktlint_accent_error 
 cd ktlint_àccent_error 
 gradlew ktlintCheck
 ```
