@@ -1,0 +1,1 @@
+# ktlint_accent_error
